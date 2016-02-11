@@ -1,0 +1,28 @@
+name: byoo
+favicon: null
+layout_spectrum: 0.17398250778205693
+typography_spectrum: 0.16193741047754884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9272362566553056
+  lightness: 0.33418418979272246
+  saturation: 0.7797326198779047
+  rhythmicContrast: 0.9920488148927689
+purpose: []
